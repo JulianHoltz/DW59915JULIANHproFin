@@ -186,7 +186,7 @@ header {
 }
 
 #divBox2 {
-  background-image: url("6-img/1d.jpg");
+  background-image: url("../3-img/1d.jpg");
   background-size: cover;
 }
 
@@ -204,7 +204,7 @@ header {
 }
 
 #divBox4IMG {
-  background-image: url("6-img/mb4.png");
+  background-image: url("../3-img/mb4.png");
   background-size: cover;
   height: 90%;
   width: 90%;
@@ -242,7 +242,7 @@ header {
 }
 
 #divBox7 {
-  background-image: url("6-img/smiley-woman (2).jpg");
+  background-image: url("../3-img/smiley-woman (2).jpg");
   background-size: cover;
   border-radius: var(--radius) 0px 0px var(--radius);
   width: 15VW;
